@@ -1,3 +1,33 @@
-# Learning template [![version](https://img.shields.io/github/release/hchiam/learning-template)](https://github.com/hchiam/learning-template/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/hchiam/learning-template/blob/master/LICENSE)
+# Learning GraphQL
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
+
+Go here: <https://developer.github.com/v4/explorer/>
+
+Paste this query:
+
+```graphql
+query { 
+  viewer {
+    login
+  }
+}
+```
+
+You should get a response with your username:
+
+```json
+{
+  "data": {
+    "viewer": {
+      "login": "hchiam"
+    }
+  }
+}
+```
+
+## More links
+
+<https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/>
+
+<https://docs.github.com/en/graphql>

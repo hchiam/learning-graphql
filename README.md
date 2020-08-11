@@ -31,3 +31,5 @@ You should get a response with your username:
 <https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/>
 
 <https://docs.github.com/en/graphql>
+
+<https://github.com/simonw/simonw/blob/main/build_readme.py>

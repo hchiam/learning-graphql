@@ -1,0 +1,15 @@
+{
+  "name": "graphql-js-demo",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node --experimental-modules demo.mjs"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^15.3.0"
+  }
+}

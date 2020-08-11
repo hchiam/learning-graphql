@@ -33,3 +33,7 @@ You should get a response with your username:
 <https://docs.github.com/en/graphql>
 
 <https://github.com/simonw/simonw/blob/main/build_readme.py>
+
+GraphQL.js: <https://graphql.org/code/#javascript> and <https://www.npmjs.com/package/graphql>
+
+More in-depth: <https://www.howtographql.com/>

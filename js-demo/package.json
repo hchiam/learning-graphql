@@ -5,7 +5,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "demo": "node --experimental-modules demo.mjs"
+    "go": "node --experimental-modules demo.js",
+    "demo": "node --experimental-modules demo.js"
   },
   "author": "",
   "license": "MIT",

@@ -1,12 +1,12 @@
-// import {
-//   graphql,
-//   GraphQLSchema,
-//   GraphQLObjectType,
-//   GraphQLString,
-// } from "graphql";
+import {
+  graphql,
+  GraphQLSchema,
+  GraphQLObjectType,
+  GraphQLString,
+} from "graphql";
 
-const graphql = require("graphql");
-const { GraphQLSchema, GraphQLObjectType, GraphQLString } = graphql;
+// const graphql = require("graphql");
+// const { GraphQLSchema, GraphQLObjectType, GraphQLString } = graphql;
 
 // schema: with one field (hello) and one type (string):
 var schema = new GraphQLSchema({

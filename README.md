@@ -35,7 +35,7 @@ GraphQL.js: <https://graphql.org/code/#javascript> and <https://www.npmjs.com/pa
 Run this: (triple-click to select the whole thing)
 
 ```bash
-cd js-demo && yarn && yarn demo
+cd js-demo && yarn && yarn go
 ```
 
 Should print out:

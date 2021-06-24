@@ -5,6 +5,9 @@ import {
   GraphQLString,
 } from "graphql";
 
+// const graphql = require("graphql");
+// const { GraphQLSchema, GraphQLObjectType, GraphQLString } = graphql;
+
 // schema: with one field (hello) and one type (string):
 var schema = new GraphQLSchema({
   query: new GraphQLObjectType({

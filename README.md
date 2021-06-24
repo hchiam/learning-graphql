@@ -1,5 +1,7 @@
 # Learning GraphQL
 
+Get just the data you want, possibly with just 1 API call. Also describe your data API with types and fields, instead of organizing the API around endpoints. This also lets you easily add new fields to an API without affecting breaking queries.
+
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 Go here: <https://developer.github.com/v4/explorer/>
